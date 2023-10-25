@@ -4,7 +4,7 @@
 
 💡 I find immense joy in crafting scalable and efficient microservices using the power of .NET, and I'm constantly exploring new ways to make systems more robust, maintainable, and agile.
 
-🚀 When I'm not buried in code, you can find me exploring the latest trends in software engineering, attending tech meetups, and working on open-source projects. My GitHub is my playground, where I share my projects, contribute to exciting endeavors, and collaborate with fellow developers from around the world.
+🚀 When I'm not buried in code, you can find me exploring the latest trends in software engineering, attending tech meetups, and working on open-source projects. My GitHub is my playground!
 
 🌟 Here are a few things that describe me best:
 
