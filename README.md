@@ -2,5 +2,7 @@ Hello there! I'm an enthusiastic computer science student on a journey to master
 
 📧 You can reach me at szy1kon@wp.pl
 
+CURRENTLY I HAVE A SOME PROJECTS IN_PROGRESS, BUT IT WILL STAY AS PRIVATE (UNTIL MVP WILL BE DONE)
+
 
 Let's shape the future of technology together! 🚀
