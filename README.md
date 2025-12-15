@@ -1,8 +1,14 @@
-Hello there! I'm an enthusiastic computer science student on a journey to master the intricacies of .NET microservices. My GitHub repository reflects my passion for coding and my commitment to continuous learning. As I navigate through my academic journey, I'm excited to share my projects and progress with the vibrant tech community.
+ About Me
+With over 4 years of commercial experience in .NET application testing (both manual and automated), I've developed a strong foundation in software quality assurance. Currently pursuing my Master's degree in Applied Computer Science while actively developing advanced software projects that combine theoretical knowledge with practical implementation.
 
-📧 You can reach me at szy1kon@wp.pl
+I specialize in:
+- Backend Development using C# and .NET ecosystem
+- Microservices Architecture and distributed systems
+- Enterprise Design Patterns (Clean Architecture, CQRS, DDD)
+- Statistical Modeling and machine learning applications
+- Software Testing & Quality Assurance
 
-CURRENTLY I HAVE A SOME PROJECTS IN_PROGRESS, BUT IT WILL STAY AS PRIVATE (UNTIL MVP WILL BE DONE)
 
+📧 You can reach me at s-koniecko-jobs@wp.pl
 
-Let's shape the future of technology together! 🚀
+Check my latest (the best) project! -> https://github.com/SzymonKoniecko/SimPitch
